@@ -1,0 +1,11 @@
+# macOS/local UI noise
+.DS_Store
+.obsidian/workspace.json
+
+# Generated LaTeX files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
